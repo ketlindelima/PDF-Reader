@@ -52,7 +52,7 @@ for directory, subfolder, files in os.walk(folder):
             for o in w:
                 date.append(o)
     
-    all_clients = []
+    # Call the function
     clients = find_in_list("Client:", out_trim)
     company = find_in_list("Company:", out_trim)
 
