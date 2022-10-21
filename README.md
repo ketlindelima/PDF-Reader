@@ -28,7 +28,7 @@ To learn more about Regex, try the [documentation](https://docs.python.org/3/lib
 
 To practice Regular Expressions, try [this site](https://docs.python.org/3/library/re.html) 
 
-# Result with the File Examples
+# Result with the Example Files 
 
 Trying this code with the example files, I got the result below:
 
