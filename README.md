@@ -1,4 +1,4 @@
-# How to Read a PDF file, extract informations and save them in a XLSX file
+# How to Read a PDF file, extract information and save them in a XLSX file
 
 Hi, there! 
 In this short tutorial, I will show you how to implement the Python PDF Reader, extracting relevant pieces of information and also saving this information in an XLSX file.
