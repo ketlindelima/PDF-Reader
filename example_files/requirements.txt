@@ -1,0 +1,15 @@
+cffi==1.15.1
+charset-normalizer==3.0.0
+cryptography==38.0.1
+et-xmlfile==1.1.0
+numpy==1.23.4
+openpyxl==3.0.10
+pandas==1.5.1
+pdfminer==20191125
+pdfminer.six==20220524
+pycparser==2.21
+pycryptodome==3.15.0
+PyPDF4==1.27.0
+python-dateutil==2.8.2
+pytz==2022.5
+six==1.16.0
