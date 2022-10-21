@@ -35,4 +35,4 @@ Trying this code with the example files, I got the result below:
 [image]: data-frame.png "Prompt Image"
 
 
-### I hope tha I could help, enjoy! 
+### I hope that I could help, enjoy! 
