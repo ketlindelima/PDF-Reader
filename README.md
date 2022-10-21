@@ -23,7 +23,9 @@ The **file_sheet_name.xlsx** is a file created in this test inside the folder.
 
 # About the Regex Library
 When you use the _re_ library, it is possible just check if the element exists, find this element, and also save this element in a variable. In this tutorial, I needed to save the elements to include in my DataFrame. To do that I needed to use the _compile_ and after the _findall_ methods. These methods return a list and a list inside the main list includindg the element if it has been found and an empty list if not. For that reason a need to filter this main list after applied the Regex just to take the elements.
+
 To learn more about Regex, try the [documentation](https://docs.python.org/3/library/re.html)
+
 To practice Regular Expressions, try [this site](https://docs.python.org/3/library/re.html) 
 
 # Result with the File Examples
